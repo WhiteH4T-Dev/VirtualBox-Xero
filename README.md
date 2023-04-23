@@ -40,3 +40,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 <br>
 
 Finally, reboot your system for the changes to take effect.
+
+```
+sudo reboot now
+```
